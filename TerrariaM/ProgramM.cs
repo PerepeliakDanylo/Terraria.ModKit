@@ -19,7 +19,7 @@ using Terraria.Utilities;
 // ReSharper disable All
 namespace TerrariaM
 {
-    //Decompiled Terraria.ProgramM
+    //Decompiled Terraria.Program
     public static class ProgramM
     {
       public static bool IsXna = true;
