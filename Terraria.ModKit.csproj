@@ -161,7 +161,6 @@
     <Compile Include="Razorwing.Framework\RuntimeInfo.cs" />
     <Compile Include="Razorwing.Framework\Threading\AtomicCounter.cs" />
     <Compile Include="Razorwing.Framework\Threading\Scheduler.cs" />
-    <Compile Include="Razorwing.Framework\Threading\ThreadedTaskScheduler.cs" />
     <Compile Include="Razorwing.Framework\Timing\DecoupleableInterpolatingFramedClock.cs" />
     <Compile Include="Razorwing.Framework\Timing\FramedClock.cs" />
     <Compile Include="Razorwing.Framework\Timing\FramedOffsetClock.cs" />
@@ -179,7 +178,7 @@
     <Compile Include="REPL\REPLTool.cs" />
     <Compile Include="REPL\REPLUI.cs" />
     <Compile Include="TerrariaM\ID\GameModeId.cs" />
-    <Compile Include="TerrariaM\Program.cs" />
+    <Compile Include="TerrariaM\ProgramM.cs" />
     <Compile Include="TerrariaM\WindowsLaunch.cs" />
     <Compile Include="UIElements\FixedUIScrollBar.cs" />
     <Compile Include="UIElements\NewUITextBox.cs" />
