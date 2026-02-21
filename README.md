@@ -51,7 +51,7 @@ Cycle between 0–6 extra accessory slots rendered alongside the vanilla invento
 3. Launch tModLoader and enable the mod in **Workshop → Manage Mods**
 
 ### Option B: Build from source
-1. Copy the [`ModKitTML/`](ModKitTML/) folder to: `Documents\My Games\Terraria\tModLoader\ModSources\ModKitTML\`
+1. Copy the [`ModKitTML/`](ModKitTML/) folder to: `Documents\My Games\Terraria\tModLoader\ModSources\`
 2. Launch tModLoader → **Workshop → Develop Mods → ModKit TML → Build**
 
 ## Requirements
